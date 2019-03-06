@@ -5,12 +5,7 @@
 
 This repository has code to create a web app that is pre-configured with the MEAN stack (MongoDB, Express.js, AngularJS, Node.js). We use IBM Cloud services to host our application; the IBM Cloud Developer Tools CLI to run and debug locally; and lastly provide native commands to deploy to Kubernetes or Cloud Foundry.
 
-By running this code, you'll understand how to:
-* Build an application that uses MongoDB, Express.js, AngularJS, and Node.js
-* Create an application for monitoring and distributed tracing using App Metrics
-* Deploy an application using the IBM Cloud Developer Tools CLI or natively with Kubernetes or Cloud Foundry
-
-![](https://github.com/IBM/pattern-utils/raw/master/mern-starter/mean-architecture.png)
+By running this code, you'll understand how -architecture.png)
 
 ## Flow
 
