@@ -4,7 +4,7 @@
 # Create and deploy a cloud native web application using the MEAN (MongoDB, Express, AngularJS, Node.js) stack
 
 This repository has code to create a web app that is pre-configured with the MEAN stack (MongoDB, Express.js, AngularJS, Node.js). We use IBM Cloud services to host our application; the IBM Cloud Developer Tools CLI to run and debug locally; and lastly provide nate AngularJS front end communicates with the Express back end via RESTful APIs.
-3. The back-end Express application uses the Mongo database for storing and retrieving data.
+3. The back-end Express applicatMongo database for storing and retrieving data.
 4. Back-end results are communicated back to the the front end.
 5. Front-end results are rendered in a human readable format to the user.
 
