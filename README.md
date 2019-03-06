@@ -1,6 +1,5 @@
 [![](https://img.shields.io/badge/IBM%20Cloud-powered-blue.svg)](https://bluemix.net)
-
-rrTEST
+Mestio
 
 # Create and deploy a cloud native web application using the MEAN (MongoDB, Express, AngularJS, Node.js) stack
 
